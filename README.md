@@ -1,6 +1,6 @@
 # ds_movie_project_boxoffice
 
-## Data Science Project 
+## Data Science Project on world wide box office data of movies
 
 
 ## resources_data
